@@ -7,7 +7,7 @@ const Navbar = () => {
         <a className="navbar-brand" href="#">
           <img
             // src="https://images.pexels.com/photos/3022003/pexels-photo-3022003.jpeg?auto=compress&cs=tinysrgb&w=400"
-            src=""
+            src="https://raw.githubusercontent.com/irriz-jayy/portfolio_02/main/public/favicon.ico"
             alt="logo"
             width="50"
             height="50"
