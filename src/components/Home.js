@@ -3,7 +3,7 @@ import Image from "./Image";
 
 const Home = () => {
   return (
-    <div className="container">
+    <div className="hero-container">
       <div className="hero-section">
         <div className="hero-image">
           <Image />

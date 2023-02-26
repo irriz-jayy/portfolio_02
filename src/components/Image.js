@@ -1,7 +1,7 @@
 const Image = () => {
   return (
     <img
-      src="../../assets/hero-image.png"
+      src="https://via.placeholder.com/450"
       alt="hero image"
       className="main-hero-image"
     />
