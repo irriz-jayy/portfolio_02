@@ -15,11 +15,19 @@
 }
 
 .projects-section {
+  padding: 10px;
   height: 500px;
   border-style: solid;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
 
 .hero-container {
   height: 500px;
   padding: 20px;
+}
+
+.card {
+  width: 18rem;
 }
