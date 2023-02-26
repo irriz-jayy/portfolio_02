@@ -25,10 +25,20 @@
 
 .hero-container,
 .footer-container {
-  height: 500px;
+  height: 600px;
   padding: 20px;
+}
+
+.hero-text {
+  padding: 10px;
 }
 
 .card {
   width: 18rem;
+}
+
+.card-text,
+.card-title,
+.navbar-text {
+  color: white;
 }
