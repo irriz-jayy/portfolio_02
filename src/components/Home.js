@@ -1,15 +1,12 @@
 import "../App.css";
+import Image from "./Image";
 
 const Home = () => {
   return (
     <div className="container">
       <div className="hero-section">
         <div className="hero-image">
-          <img
-            src="../../assets/hero-image.png"
-            alt="hero image"
-            className="main-hero-image"
-          />
+          <Image />
         </div>
         <div className="hero-text">
           <p className="text">
