@@ -8,13 +8,35 @@ const Connect = () => {
         corporis perspiciatis accusamus, ut dolores! Sit delectus laborum
         repellendus.
       </p>
-      <img
-        src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png"
-        alt="logo"
-        width="50"
-        height="50"
-        className="logo"
-      />
+      <li className="logo">
+        <a href="#">
+          <img
+            src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-256.png"
+            alt="logo"
+            width="50"
+            height="50"
+            className="logo"
+          />
+        </a>{" "}
+        <a href="#">
+          <img
+            src="https://cdn3.iconfinder.com/data/icons/picons-social/57/11-linkedin-512.png"
+            alt="logo"
+            width="50"
+            height="50"
+            className="logo"
+          />
+        </a>{" "}
+        <a href="#">
+          <img
+            src="https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-social-github-512.png"
+            alt="logo"
+            width="50"
+            height="50"
+            className="logo"
+          />
+        </a>
+      </li>
     </div>
   );
 };
