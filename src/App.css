@@ -19,13 +19,29 @@
   align-items: center;
 }
 
+.projects {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+}
+.project-header {
+  text-align: center;
+}
+
+.project-heading {
+  font-family: "Prata";
+}
+
 .projects-section {
   padding: 10px;
   height: 500px;
-  border-style: solid;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.project-heading {
+  color: #01b7ff;
 }
 
 .hero-container {
@@ -37,6 +53,8 @@
 
 .hero-text {
   padding: 10px;
+  color: #01b7ff;
+  font-size: 20px;
 }
 
 .card {
@@ -57,7 +75,8 @@
 
 .footer-text {
   margin-right: 20px;
-  font-family: "Allura";
+  font-family: "Prata";
+  font-size: 18px;
 }
 
 .footer-container {
