@@ -1,13 +1,11 @@
 import "../App.css";
-import Image from "./Image";
+// import Image from "./Image";
 
 const Home = () => {
   return (
     <div className="hero-container">
       <div className="hero-section">
-        <div className="hero-image">
-          <Image />
-        </div>
+        <div className="hero-image">{/* <Image /> */}</div>
         <div className="hero-text">
           <p className="text">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Optio
