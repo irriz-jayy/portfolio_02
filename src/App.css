@@ -94,11 +94,22 @@
   background-color: #01b7ff;
 }
 
+.language-box {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  text-align: center;
+  color: #01b7ff;
+}
+
 .language-container {
   padding: 10px;
   height: 300px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  background-color: black;
+}
+
+.card-text-lan {
+  color: #01b7ff;
 }
