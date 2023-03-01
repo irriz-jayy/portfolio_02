@@ -8,7 +8,7 @@ const Home = () => {
         <div className="hero-image">{/* <Image /> */}</div>
         <div className="hero-text">
           <p className="text">
-            <h2 className="welcome-text">Welcome</h2>I am a Kenyan based young
+            <h1 className="welcome-text">Welcome</h1>I am a Kenyan based young
             budding software engineer. I am currently learning HTML, Css,
             JavaScript, React.js, Ruby, Ruby on rails and many more. All this is
             on my journey to being a full stack web developer.

@@ -113,3 +113,10 @@
 .card-text-lan {
   color: #01b7ff;
 }
+
+.card-img:hover {
+  cursor: pointer;
+  box-shadow: rgba(1, 183, 255, 1) 0px 0px 0px 2px,
+    rgba(1, 183, 255, 1) 0px 4px 6px -1px,
+    rgba(1, 183, 255, 1) 0px 1px 0px inset;
+}
