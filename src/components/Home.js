@@ -11,7 +11,7 @@ const Home = () => {
             <h1 className="welcome-text">Welcome</h1>I am a Kenyan based young
             budding software engineer. I am currently learning HTML, Css,
             JavaScript, React.js, Ruby, Ruby on rails and many more. All this is
-            on my journey to being a full stack web developer.
+            on my journey to being a full stack web dev.
           </p>
         </div>
       </div>
